@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LJ Hooker/input_Listings_f_18fa15a4-36e7-4e46-9388-ef_95c102",
+      "brokenLocator": "//input[@id\u003d\u0027f_18fa15a4-36e7-4e46-9388-ef9fdc8d69d2\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027q-app\u0027]/div/div/div[2]/main/div/div/div[2]/div/label/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LJ Hooker/input_Listings_f_18fa15a4-36e7-4e46-9388-ef_95c102_idRelative.png"
+    }
+  ]
+}
